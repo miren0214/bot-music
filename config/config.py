@@ -1,4 +1,4 @@
-BOT_TOKEN: str = ""
+BOT_TOKEN: str = "MTE4Njk5Njk3NzIyMTc2NzIwOQ.GQzth5.enD9tTlQOvvXt4XnGd6xFUUHzPHPVlBwJ8ALwg"
 SPOTIFY_ID: str = ""
 SPOTIFY_SECRET: str = ""
 
